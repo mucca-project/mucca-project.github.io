@@ -3,9 +3,8 @@ permalink: /about/
 title: "About"
 layout: single
 classes: wide
----
 
-{% include video id="1a6Q17tCGB6kf-kARXkb3RvxzuzjYrbkc" provider="google-drive" %}
+---
 
 Developing and testing methodologies that allow to interpret the predictions of the AI algorithms in terms of transparency, interpretability, and explainability has become today one of the most important open questions in AI.
 In this proposal we bring together researchers from different fields with complementary skills, essential to be able to understand the behaviour of the AI algorithms, that will be studied with an interesting set of multidisciplinary use-cases in which explainable AI can play a crucial role and that will be used to quantify strengths and highlight, and possible solve, weakness of the available explainable AI methods in different applicative contexts. One aspect hindering so far substantial progress towards explainability is the fact that several proposed solutions in explainable AI proved to be effective after being tailored to specific applications, and frequently not easily transferred to other domains. In this project, we will test the same array of techniques for explainability to use-cases intentionally chosen to be quite heterogeneous with respect to the types of data, learning tasks, scientific questions.

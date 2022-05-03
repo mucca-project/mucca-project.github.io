@@ -12,6 +12,12 @@ excerpt: >
 
 * \[**10 April 2022**\]: The MUCCA General Meeting of 2022 will be held in Rome, April 11-13, at the Orto Botanico. See [agenda and registration](https://agenda.infn.it/event/30838/).
 
+<center>
+<div>
+    <iframe src="https://drive.google.com/file/d/1a6Q17tCGB6kf-kARXkb3RvxzuzjYrbkc/preview" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width=400 height=225></iframe>
+</div>
+</center>
+
 ## Funding agencies
 
 <img src="/assets/images/BNSF_logo.jpg" alt="BNSF - Bulgarian National Science Fund (Bulgaria)" /> &nbsp;&nbsp;&nbsp;&nbsp; 
