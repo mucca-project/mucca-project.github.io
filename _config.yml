@@ -55,8 +55,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: "/assets/images/logo.png"
 author:
   name   : "MUCCA Project"
+  avatar   : "/assets/images/logo.png"
   bio    : "Multi-disciplinary Use Cases for Convergent new Approaches to AI explainability"
   links:
     - label: "Website"
