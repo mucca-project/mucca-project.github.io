@@ -3,35 +3,36 @@ title: Consortium and members
 layout: single
 classes: wide
 permalink: /consortium/
-gallery:
-  - url: 
-    image_path: 
+feature_row:
+  - image_path: /assets/images/Uniroma1_logo.png
+    alt: "Sapienza University of Rome"
+    title: "Sapienza University of Rome"
+    excerpt: "PIs: Prof. Stefano Giagu (main), Prof. Stefano Ferraina, Prof. Aurelio Uncini, Dr. Simone Scardapane"
+  - image_path: /assets/images/university-of-liverpool-logo-freelogovectors.net_.png
     alt: "University of Liverpool"
     title: "University of Liverpool"
-  - url: 
-    image_path: 
-    alt: "Sophia University"
-    title: "Sophia University"
-gallery2:
-  - url: 
-    image_path: 
-    alt: "Medlea Srls"
-    title: "Medlea Srls"
-  - url: https://upb.ro/en/
-    image_path: 
+    excerpt: "PIs: Prof. Monica D’Onofrio (main), Dr. Cristiano David Sebastiani"
+  - image_path: /assets/images/INFN_logo.png
+    alt: "Istituto Nazionale di Fisica Nucleare"
+    title: "Istituto Nazionale di Fisica Nucleare"
+    excerpt: "PIs: Dr. Cecilia Voena (main)"
+  - image_path: /assets/images/Sofia_University_Logo.jpg
+    alt: "University of Sofia"
+    title: "University of Sofia"
+    excerpt: "PIs: Prof. Venelin Kozhuharov (main), Georgi Georgiev"
+  - image_path: /assets/images/medlea-logo-large-235x160.png
+    alt: "MedLea"
+    title: "MedLea"
+    excerpt: "PIs: Dr. Simone Melchionna (main), Dr. Marco Montuori, Dr. Manash Pratim Borthakur"
+  - image_path: /assets/images/Universitatea_Politehnica_Bucuresti_logo.jpg
     alt: "Polytechnic University of Bucharest"
     title: "Polytechnic University of Bucharest"
-
+    excerpt: "PIs: Prof. Corneliu Balan (main), Prof. Diana Broboana, Dr. Nicoleta Tanase"
 ---
 
 ## Consortium
-<center>
-<a href="https://www.uniroma1.it/it/"><img src="/assets/images/Uniroma1_logo.png" /></a>&nbsp;&nbsp;
-<a href="https://www.liverpool.ac.uk/"><img src="/assets/images/university-of-liverpool-logo-freelogovectors.net_.png" /></a><br /><br />
-<a href="https://www.uni-sofia.bg/eng"><img src="/assets/images/Sofia_University_Logo.jpg" /></a><br /><br />
-<a href="https://medlea-tech.com/"><img src="/assets/images/medlea-logo-large-235x160.png" /></a>&nbsp;&nbsp;
-<a href="https://upb.ro/en/"><img src="/assets/images/Universitatea_Politehnica_Bucuresti_logo.jpg" /></a>
-</center>
+
+{% include feature_row type="left" %}
 
 ## Funding agencies
 
